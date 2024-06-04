@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Java_DSA/dominoTrominoDP/dominoTrominoDP.iml" filepath="$PROJECT_DIR$/../../../../Java_DSA/dominoTrominoDP/dominoTrominoDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Java_DSA/knightBoardProbability/knightBoardProbability.iml" filepath="$PROJECT_DIR$/../../../../Java_DSA/knightBoardProbability/knightBoardProbability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Java_DSA/noOfLIS/noOfLIS.iml" filepath="$PROJECT_DIR$/../../../../Java_DSA/noOfLIS/noOfLIS.iml" />
+    </modules>
+  </component>
+</project>

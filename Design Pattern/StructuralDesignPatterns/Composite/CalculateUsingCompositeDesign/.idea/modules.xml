@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculateUsingCompositeDesign.iml" filepath="$PROJECT_DIR$/CalculateUsingCompositeDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FileDesignUsingCompositeDesign/FileDesignUsingCompositeDesign.iml" filepath="$PROJECT_DIR$/../FileDesignUsingCompositeDesign/FileDesignUsingCompositeDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WordProcesser/WordProcesser.iml" filepath="$PROJECT_DIR$/../WordProcesser/WordProcesser.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bridge.iml" filepath="$PROJECT_DIR$/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../CreationDesignPatterns/Singleton/SingletonExample/SingletonExample.iml" filepath="$PROJECT_DIR$/../../CreationDesignPatterns/Singleton/SingletonExample/SingletonExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../CreationDesignPatterns/Builder/StudentBuilderDesign/StudentBuilderDesign.iml" filepath="$PROJECT_DIR$/../../CreationDesignPatterns/Builder/StudentBuilderDesign/StudentBuilderDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Adapter/WeightConversion/WeightConversion.iml" filepath="$PROJECT_DIR$/../Adapter/WeightConversion/WeightConversion.iml" />
+    </modules>
+  </component>
+</project>

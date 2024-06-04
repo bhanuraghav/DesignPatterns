@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bridge/BreatheProcessBridge/BreatheProcessBridge.iml" filepath="$PROJECT_DIR$/Bridge/BreatheProcessBridge/BreatheProcessBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/CalculateUsingCompositeDesign/CalculateUsingCompositeDesign.iml" filepath="$PROJECT_DIR$/Composite/CalculateUsingCompositeDesign/CalculateUsingCompositeDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/EmployeeProxy/EmployeeProxy.iml" filepath="$PROJECT_DIR$/Proxy/EmployeeProxy/EmployeeProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/FileDesignUsingCompositeDesign/FileDesignUsingCompositeDesign.iml" filepath="$PROJECT_DIR$/Composite/FileDesignUsingCompositeDesign/FileDesignUsingCompositeDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/OrderProcess/OrderProcess.iml" filepath="$PROJECT_DIR$/Facade/OrderProcess/OrderProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/PizzaDecorator/PizzaDecorator.iml" filepath="$PROJECT_DIR$/Decorator/PizzaDecorator/PizzaDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StructuralDesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/StructuralDesignPatterns.iml" />
+    </modules>
+  </component>
+</project>
